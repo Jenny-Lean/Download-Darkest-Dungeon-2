@@ -28,7 +28,7 @@ Click the link below to download the **Darkest Dungeon 2: Inhuman Bondage** inst
 After downloading, you will have a .zip file containing the installer. Extract the file using **WinRAR** or **7-Zip** by right-clicking and selecting "Extract here" or "Extract to [folder name]".
 
 ### Step 3: Run the Installer
-Locate the installer file (named something like "Darkest_Dungeon_2_Installer.exe") and double-click it to begin installation. Follow the on-screen instructions, selecting where you want to install the game.
+Locate the installer file and double-click it to begin installation. Follow the on-screen instructions, selecting where you want to install the game.
 
 ### Step 4: Complete Installation
 Once installation is finished, you can either immediately launch the game or exit the installer. To start playing, open the installation folder and double-click the game icon.
